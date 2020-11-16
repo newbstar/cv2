@@ -1,0 +1,88 @@
+body {
+    margin:0px;
+    text-align: center;
+    font-family:'Roboto', sans-serif;
+}
+
+h1{
+    margin-top:0px;
+    font-size: 420%;
+    font-family: 'Amatic SC', cursive;
+    color: #1c99aa;
+
+}
+
+h2{
+    font-family: 'Dosis', sans-serif;
+    color: #1c99aa;
+
+}
+
+h3{
+    font-family: 'Dosis', sans-serif;
+    color: #1c99aa;
+
+}
+
+.top-container {
+    background-color: #fff0f5;  
+    position: relative;
+    padding-top:100px;
+}
+
+.middle-container {
+    background-color: #f8e1f4;
+}
+
+.bottom-container {
+    background-color: #efa8e4;
+
+}
+.top-star {
+    position: absolute;
+    max-width:15%;
+    height:auto;
+    left: 250px;
+    top: 50px;
+}
+.bottom-star {
+    position: absolute;
+    max-width:15%;
+    height:auto;
+    right: 250px;
+    top: 50px;
+}
+
+
+.moon {
+    max-width:15%;
+    height:auto;
+}
+
+.eyerollowl {
+    max-width:10%;
+    height:auto;
+    padding-top:20px;
+}
+
+.temmy {
+    max-width: 15%;
+    height: auto;
+}
+
+.totzy {
+    max-width: 15%;
+    height: auto;
+}
+
+.aaa {
+    color: #a82795;
+}
+
+hr {
+    border-color:   ##1c99aa ;
+     border-width: 10px;
+     border-style: none;
+     border-top-style: dotted;
+     width:20%;
+}
